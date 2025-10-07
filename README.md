@@ -1,4 +1,13 @@
-New London 
+#New London 
+![1000015655](https://github.com/user-attachments/assets/8687d158-8fa9-40a1-956a-e9430681c280)
+
+**Interior of the House** 
+<img width="1024" height="1024" alt="1000015656" src="https://github.com/user-attachments/assets/9099f184-9f7f-40b7-bd84-e2acab989a1e" />
+
+**Interior of the Pool house** 
+<img width="1024" height="1024" alt="1000015653" src="https://github.com/user-attachments/assets/39f79e28-fd98-48c3-a668-050d9fa54177" />
+
+
 ### Revised GitHub Repository Structure
 ```
 dads-league-kingdom/
@@ -541,10 +550,332 @@ Create 2D drawings for a 20×20 ft portable micro-lodge with a 10×20 ft loft an
 **Output**: Save as `cad/2d_drawings.dwg`. Export views to SVG for `plans/figures/`.
 
 ---
-<img width="1024" height="1024" alt="1000015656" src="https://github.com/user-attachments/assets/9099f184-9f7f-40b7-bd84-e2acab989a1e" />
 
-<img width="1024" height="1024" alt="1000015653" src="https://github.com/user-attachments/assets/39f79e28-fd98-48c3-a668-050d9fa54177" />
 
 
 ---
+---
+#Ethereal External Areal View
+
+ ![1000015693](https://github.com/user-attachments/assets/2a037b1b-8ce3-4d05-a2d3-2a12f7eb0399)
+
+ **Underground Garage**
+<img width="1024" height="1024" alt="1000015691" src="https://github.com/user-attachments/assets/68e550c7-f850-4f76-96bb-044e6d0acd4a" />
+
+Designed with a full-width underground garage + art/wine staging level (beneath the main house and partially beneath the pool) changes the project’s bones. Below is a fully revised, build-ready GitHub repo you can copy/paste. I’ve integrated: car turntables with trickle-charging, a basement-wide gallery vault, elevator (3rd floor/mezz → basement), structural transfer slab under the pool, waterproofing “bathtub” spec, clean-agent fire suppression, ventilation, egress, and an updated budget to $3.3–$4.4M.
+
+![1000015692](https://github.com/user-attachments/assets/b2179ca9-2e8c-481c-8504-88bc003434c5)
+
+![1000015690](https://github.com/user-attachments/assets/03f8be5f-d4c0-4330-a1b0-2270e2344dbc)
+
+**Interior error Views**
+![1000015694](https://github.com/user-attachments/assets/838c5e89-3614-44e3-a9ea-9e9f3bb6b0a6)
+
+📁 Repository: ETHEREAL-HOUSE-V2
+
+ETHEREAL-HOUSE-V2/
+├── 00_CONCEPT/
+│   ├── Vision.md
+│   ├── Design_Principles.md
+│   └── Render_Prompts.md
+├── 01_ARCHITECTURE/
+│   ├── Site_Plan.md
+│   ├── Floor_Plans_Main_Mezz_Basement.md
+│   ├── Sections_Elevations.md
+│   ├── Stair_Elevator_Details.md
+│   ├── Pool_Over_Basement_Detail.md
+│   └── Code_Checklist_MA.md
+├── 02_STRUCTURE/
+│   ├── Structural_Notes.md
+│   ├── Foundation_Bathtub_Waterproofing.md
+│   ├── Transfer_Slab_Under_Pool.md
+│   ├── Steel_Frame_Shop_Dwg_Schedule.md
+│   └── Vibration_Acoustics_Isolation.md
+├── 03_INTERIOR/
+│   ├── Room_Specs.md
+│   ├── Finish_Schedule.md
+│   ├── Lighting_Design_Italian_Brands.md
+│   ├── AV_Theater.md
+│   └── BuiltIns_Wardrobes_Millwork.md
+├── 04_GARAGE_ART_WINE_LEVEL/
+│   ├── Plan_and_Zoning.md
+│   ├── Car_Turntables_and_Charging.md
+│   ├── Wine_Cellars_Conditions.md
+│   ├── Fine_Art_Vault_Climate_Security.md
+│   ├── Fire_Suppression_CleanAgent.md
+│   └── Access_Control_CCTV.md
+├── 05_SYSTEMS_MEPF/
+│   ├── HVAC_Geothermal_Zones.md
+│   ├── Ventilation_Garage_CO_NO2.md
+│   ├── Plumbing_Rainwater_Greywater.md
+│   ├── Electrical_SingleLine_Loads.md
+│   ├── Solar_Battery_EV.md
+│   └── SmartHome_Spec.md
+├── 06_LANDSCAPE_POOL/
+│   ├── Pool_Structure_Saline.md
+│   ├── Decking_45deg_Chevron.md
+│   └── Irrigation_Rainwater.md
+├── 07_HARDWARE_FASTENERS/
+│   ├── Screw_Schedule.md
+│   ├── Glazing_Fixings.md
+│   └── Deck_Clips_Stainless.md
+├── 08_SAFETY_COMPLIANCE/
+│   ├── Egress_LifeSafety.md
+│   ├── Fire_Alarm_Sprinklers.md
+│   └── Accessibility_Elevator.md
+├── 09_MANUFACTURING_HANDOFF/
+│   ├── Construction_Sequence.md
+│   ├── QA_QC_Checklists.md
+│   ├── Panel_Cut_Lists.md
+│   └── Commissioning_Forms.md
+└── 10_COST_SCHEDULE/
+    ├── Budget_Breakdown.md
+    ├── Long_Lead_Procurement.md
+    └── Master_Schedule_Gantt.md
+
+
+---
+
+🔧 KEY FILE CONTENT (ready to drop in)
+
+01_ARCHITECTURE/Floor_Plans_Main_Mezz_Basement.md
+
+Main (~4,800 ft²): great room + show kitchen, prep kitchen, primary suite, office/flex, guest bath, mudroom/pet wash, concealed 3-car above-grade garage entry (to keep street elevation clean).
+
+Mezzanine (~350 ft²): library lounge + 2 secondary bedrooms + shared bath.
+
+Basement/Gallery Level (~6,000–6,800 ft² net under full house + partial under pool):
+
+Underground Garage: 6–8 stalls, each on a 16 ft (4.9 m) Ø motorized turntable, 12,000 lb rating, recessed flush with epoxy slab. Per-bay 120V/20A GFCI trickle charger + one 240V/60A EVSE shared backbone with load management.
+
+Art Staging/Vault: 1,200–1,500 ft², double vestibule, RH 45–55% @ 68–72°F, HEPA MERV-13 polish loop, clean-agent suppression (FK-5-1-12).
+
+Wine Galleries: two rooms, 900 + 450 ft², 55°F @ 60–70% RH, split evaporators, vapor barrier, insulated doors.
+
+Theater: 24'×15' (8–10 seats, Atmos), decoupled walls/ceiling.
+
+Gym + Wellness: sauna/steam, adjacent bath.
+
+Mechanical/Electrical/Battery, rainwater plant room, pool plant, security control.
+
+Elevator: 3 stops (Mezz/Main/Basement), 3,500 lb, machine-room-less.
+
+Stair Egress: 2 enclosed stairs, 1 pressurized, 1 smoke-proof.
+
+Ceilings: garage 11' clear beneath transfer slab; vault 12' with duct catwalk.
+
+
+
+Pool overlap: Basement extends beneath ~35–45% of pool via post-tensioned transfer slab (see structure).
+
+
+---
+
+02_STRUCTURE/Transfer_Slab_Under_Pool.md
+
+System: 14–18" post-tensioned concrete transfer slab spanning over garage grid; top waterproofing + protection board + pool shell.
+
+Pool shell: shotcrete 10–12" walls, 8–10" floor, dual waterstops at all penetrations.
+
+Load combos: hydrostatic uplift + live load + seismic; design for zero deflection perceivable to pool tile (< L/1000).
+
+Vibration: set turntables on neoprene isolation pads; seismic joints between pool shell and perimeter walls.
+
+
+
+---
+
+02_STRUCTURE/Foundation_Bathtub_Waterproofing.md
+
+Basement “white tank”: water-tight concrete with crystalline admixture + external fully bonded HDPE/PVC membrane (taped laps), protected by drainage board + perimeter footing drains to sump (dual pumps w/ battery).
+
+Joints: PVC waterstops at all cold joints; injectable hose at key seams.
+
+Negative-side backup: cementitious coating on interior in plant rooms.
+
+Under-pool isolation: secondary membrane above transfer slab; leak detection weeps to monitored drain.
+
+
+
+---
+
+04_GARAGE_ART_WINE_LEVEL/Car_Turntables_and_Charging.md
+
+Turntable spec: 16' Ø, min 12k-lb, 0–360° rotation, soft-start VFD, recessed pit 18–20" with radon-sealed sump; top quartz-aggregate epoxy.
+
+Controls: pendant + wall HMI, LIDAR edge sensors, e-stop every 10 ft.
+
+Charging: per stall NEMA 5-20 (trickle), 2× shared NEMA 14-60 EVSE; load-shed via PLC tied to main service.
+
+Drainage: slot drain ring w/ oil-water separator; floor slope 1% to slot.
+
+Air quality: continuous CO/NO₂ monitoring, demand-controlled garage fans.
+
+
+
+---
+
+04_GARAGE_ART_WINE_LEVEL/Fine_Art_Vault_Climate_Security.md
+
+Envelope: RF-shielded option, 1-hour rated walls/door, no windows.
+
+Climate: dedicated DOAS + humidification; setpoint 70°F ±2 / 50% RH ±5.
+
+Racking: powder-coated steel, anti-vibration pads.
+
+Lighting: 3000K ≤ 50 lux on art surfaces, UV-filtered.
+
+Security: dual-authentication (badge + PIN), mantrap, vibration + glass break sensors, independent CCTV on isolated VLAN.
+
+Fire: FK-5-1-12 clean agent (no water) with pre-action sprinkler backup in ante; pressure relief louver.
+
+
+
+---
+
+05_SYSTEMS_MEPF/Electrical_SingleLine_Loads.md
+
+Service: 600A 120/240V split-phase (or 400A + battery); PV 15–20 kW; battery 20–40 kWh; generator optional.
+
+Garage exhaust fans: 2× 5,000 CFM each, VFD, interlocked with CO/NO₂ sensors.
+
+Wine: 2× split systems, N+1 redundancy.
+
+Vault DOAS: 1,500 CFM with reheat coil; HEPA inline.
+
+Elevator: 208/230V 3-phase, dedicated breaker + phone line/VoIP.
+
+
+
+---
+
+05_SYSTEMS_MEPF/Ventilation_Garage_CO_NO2.md
+
+Sensors: CO (ppm) + NO₂ (ppb) at driver height; alarm at 25 ppm CO or 1 ppm NO₂; fans to 6 ACH in demand mode; normal 0.75 ACH.
+
+Make-up air: ducted from exterior lightwell with MERV-13.
+
+Fire/smoke: fans interlocked to shut on fire alarm unless smoke control mode required by AHJ.
+
+
+
+---
+
+06_LANDSCAPE_POOL/Decking_45deg_Chevron.md
+
+Decking: Thermory ash or Ipe, 45° chevron off pool’s long axis; biscuit/hidden clip system.
+
+Fasteners: A4/316 SS #8×2-1/2" for perimeter/cuts; clip screws #7×1-5/8"; pre-drill 1/8".
+
+Edge detail: shadow-gap 6 mm; miters epoxy-bonded with 2× SS trim screws each corner.
+
+
+
+---
+
+07_HARDWARE_FASTENERS/Screw_Schedule.md
+
+Exterior wood to wood: A4/316 SS #8×2-1/2" (deck), #10×3-1/8" (ledger blocking).
+
+Alum to steel (glazing trims): bi-metal SS self-drill #12-24×1" with EPDM washer.
+
+Concrete anchors: 3/8" SS wedge anchors for plinth rails, min embed 2-3/4".
+
+Turntable pit covers/grates: SS M8 socket + nylock; torque 8–10 N·m.
+
+Stair treads to steel: countersunk M6 machine screws into tapped stringer, Loctite 243.
+
+
+
+---
+
+08_SAFETY_COMPLIANCE/Egress_LifeSafety.md
+
+Basement: 2 remote exits (enclosed stair & elevator lobby to stair), 1-hour separation; 1 smoke-proof enclosure.
+
+Travel distance: ≤ 200' to exit; illuminated exit signs; emergency battery lighting.
+
+Sprinklers: full NFPA-13, dry in garage; pre-action in vault ante; clean-agent in vault room.
+
+Fire alarm: addressable, duct detectors on garage MAU/exhaust, elevator recall.
+
+
+
+---
+
+09_MANUFACTURING_HANDOFF/Construction_Sequence.md (excerpt)
+
+1. Drill geothermal wells & install rainwater cistern early (heavy rigs).
+
+
+2. Excavate to full footprint incl. pool overlap; install raft + bathtub membrane.
+
+
+3. Pour basement slab & walls; erect steel; set post-tension tendons; cast transfer slab under pool.
+
+
+4. Shotcrete pool + waterproof; pressure test before finishes.
+
+
+5. Glazing, roof, facade; interior MEP rough.
+
+
+6. Turntable pits + OWS + ventilation ducts; set turntables and commission.
+
+
+7. Vault/wine insulated enclosures; DOAS and humidity systems.
+
+
+8. Finishes, millwork, Italian lighting, Ofuro tubs.
+
+
+9. Systems commissioning: HVAC, PV/battery, rainwater, CO/NO₂, clean-agent, smart home.
+
+
+10. Life-safety testing; punch; handover.
+
+
+
+
+---
+
+10_COST_SCHEDULE/Budget_Breakdown.md (high level, USD)
+
+Division	Low	High
+
+Site, wells, cistern, excavation	220k	320k
+Foundation “bathtub”, basement extents	400k	520k
+Post-tension transfer slab + pool structure	280k	380k
+Steel frame + roof + glazing systems	650k	820k
+Interior build + Italian lighting + millwork	420k	560k
+Underground garage (turntables, epoxy, OWS, ventilation)	350k	500k
+Vault + wine rooms (MEP + fitout + clean agent)	180k	260k
+MEP (geothermal, ERV/DOAS, electrical, battery, PV)	420k	560k
+Smart home, AV, security	120k	180k
+Landscape + decks + hardscape	140k	220k
+GC OHP, design fees, permits, contingency (12–15%)	420k	520k
+TOTAL	$3.3M	$4.4M
+
+
+
+---
+
+🛠️ SPEC HIGHLIGHTS (what your PM needs on day one)
+
+Elevator: MRL 3-stop, 3,500 lb, 5'-8"×4'-3" cab, 84" door, 12 FPM; seismic Zone 2 anchorage; auto-lower on power loss to nearest floor w/ battery.
+
+Garage slab: steel-troweled, 100% solids epoxy, quartz anti-skid; oil-water separator 750–1,000 gal.
+
+Art vault walls: 8" CMU + resilient channel + 5/8" GWB each side; STC ≥ 55; gasketed door; pressure-balanced DOAS.
+
+Wine: closed-cell foam 2" (min) + foil vapor retarder warm-side; thermally broken doors; condensate to trench with trap priming.
+
+Waterproofing QA: holiday testing of membranes; flood test under deck areas; leak detection ports at pool overlap.
+
+Electrical backbone: 600A service; PV combiner to hybrid inverter; ATS to generator (optional); EV load management PLC.
+
+Controls: BACnet/IP for HVAC; KNX/DALI or Lutron for lighting; VLAN segregation: (1) life safety (2) security (3) BMS (4) AV (5) general.
+
+
+
 ---
