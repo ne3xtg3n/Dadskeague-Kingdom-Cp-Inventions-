@@ -1,5 +1,4 @@
 Dadskeague Kingdom Back yard Build by Chris Perry
-
 ### Revised GitHub Repository Structure
 ```
 dads-league-kingdom/
