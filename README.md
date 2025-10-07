@@ -1,4 +1,4 @@
-### Dad's League Kingdom - Backyard Build by Chris Perry
+New London 
 ### Revised GitHub Repository Structure
 ```
 dads-league-kingdom/
@@ -100,6 +100,8 @@ dads-league-kingdom/
 └── .github/workflows/
     └── validate.yml
 ```
+<img width="1024" height="1024" alt="1000015654" src="https://github.com/user-attachments/assets/74157a0d-66c7-425f-ac42-ce4f5bd1e3d0" />
+![1000015655](https://github.com/user-attachments/assets/4c4dc69a-679a-474a-a890-267a2b4ffefe)
 
 ## 📷 Visuals & Figures
 | Figure | Description | Image Placeholder |
@@ -539,11 +541,10 @@ Create 2D drawings for a 20×20 ft portable micro-lodge with a 10×20 ft loft an
 **Output**: Save as `cad/2d_drawings.dwg`. Export views to SVG for `plans/figures/`.
 
 ---
+<img width="1024" height="1024" alt="1000015656" src="https://github.com/user-attachments/assets/9099f184-9f7f-40b7-bd84-e2acab989a1e" />
 
-<img width="1024" height="1024" alt="1000015546" src="https://github.com/user-attachments/assets/fa9189f7-7cd1-4fd9-94c2-c8ad08bbe4a7" />
+<img width="1024" height="1024" alt="1000015653" src="https://github.com/user-attachments/assets/39f79e28-fd98-48c3-a668-050d9fa54177" />
 
-![1000015586](https://github.com/user-attachments/assets/081e8612-3d4a-4171-8e21-d4f127dedc39)
 
-<img width="1024" height="1024" alt="1000015547" src="https://github.com/user-attachments/assets/fd2a4cd8-e3a5-4a94-8af3-c4820b524aae" />
-
-![1000015587](https://github.com/user-attachments/assets/2db08be1-5a85-4d0f-9089-94ecbbbf3039)
+---
+---
