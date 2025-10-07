@@ -7,6 +7,9 @@
 **Interior of the Pool house** 
 <img width="1024" height="1024" alt="1000015653" src="https://github.com/user-attachments/assets/39f79e28-fd98-48c3-a668-050d9fa54177" />
 
+**Pool House Interior**
+![1000015695](https://github.com/user-attachments/assets/81e4105b-69d9-47a7-a961-b2c6127f067a)
+
 
 ### Revised GitHub Repository Structure
 ```
@@ -568,8 +571,12 @@ Designed with a full-width underground garage + art/wine staging level (beneath 
 
 ![1000015690](https://github.com/user-attachments/assets/03f8be5f-d4c0-4330-a1b0-2270e2344dbc)
 
-**Interior error Views**
+**Interior House Interior rror Views**
 ![1000015694](https://github.com/user-attachments/assets/838c5e89-3614-44e3-a9ea-9e9f3bb6b0a6)
+
+**Pool House Interior**
+![1000015695](https://github.com/user-attachments/assets/ff9e4150-6b10-44d3-b349-1c39a975e76f)
+
 
 📁 Repository: ETHEREAL-HOUSE-V2
 
